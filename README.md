@@ -7,14 +7,11 @@ This project is a decentralized charity donation platform where the needy can su
 - **Home**: Landing page with information about the platform and navigation links.
   ![Home](https://github.com/Bala1703/Blockchain-based-charity-donations/assets/138019223/75a4b970-2bd4-4586-9199-0de38ef98c36)
 
-
 - **Signup**: Page for new users to create an account.
   ![Signup](https://github.com/Bala1703/Blockchain-based-charity-donations/assets/138019223/f4d26e93-1326-423e-9d27-cd21982d0f1e)
 
-
 - **Login**: Page for existing users to log in to their account.
 ![Login](https://github.com/Bala1703/Blockchain-based-charity-donations/assets/138019223/0c52317d-8011-4893-a0c6-564028827660)
-
 
 - **Create Profile (Needy)**: A profile for individuals who need help, allowing them to submit cases.
 ![Needyprofile](https://github.com/Bala1703/Blockchain-based-charity-donations/assets/138019223/92114ce3-c529-4e64-8097-5d85e6018e30)
@@ -25,7 +22,7 @@ This project is a decentralized charity donation platform where the needy can su
 - **View Case Status**: Users can check the status of their submitted cases.
 ![View case status](https://github.com/Bala1703/Blockchain-based-charity-donations/assets/138019223/1e8a884b-b6a8-4377-a33e-6976472da153)
 
-- **View Raised Amount**: Donors and charity can view the total amount raised for each case.
+- **View Raised Amount**: Donors,needy and charity can view the total amount raised for each case.
 ![View Raised amt](https://github.com/Bala1703/Blockchain-based-charity-donations/assets/138019223/69ea8e6b-b5b9-4f4c-bb9b-62dcd54705fe)
 
 - **Create Profile (Charity)**: A profile for charity organizations to review and approve cases.
