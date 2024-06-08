@@ -9,46 +9,48 @@ This project is a decentralized charity donation platform where the needy can su
 
 
 - **Signup**: Page for new users to create an account.
-  ![Signup](img_link_signup)
+  ![Signup](https://github.com/Bala1703/Blockchain-based-charity-donations/assets/138019223/f4d26e93-1326-423e-9d27-cd21982d0f1e)
+
 
 - **Login**: Page for existing users to log in to their account.
-  ![Login](img_link_login)
+![Login](https://github.com/Bala1703/Blockchain-based-charity-donations/assets/138019223/0c52317d-8011-4893-a0c6-564028827660)
+
 
 - **Create Profile (Needy)**: A profile for individuals who need help, allowing them to submit cases.
-  ![Create Profile Needy](img_link_create_profile_needy)
+![Needyprofile](https://github.com/Bala1703/Blockchain-based-charity-donations/assets/138019223/92114ce3-c529-4e64-8097-5d85e6018e30)
 
 - **Request Help**: Needy individuals can submit their case details including the amount needed and necessary documents.
-  ![Request Help](img_link_request_help)
+![Createcase](https://github.com/Bala1703/Blockchain-based-charity-donations/assets/138019223/623351f1-65cb-4265-9a4f-f4fe1431fb27)
 
 - **View Case Status**: Users can check the status of their submitted cases.
-  ![View Case Status](img_link_view_case_status)  
+![View case status](https://github.com/Bala1703/Blockchain-based-charity-donations/assets/138019223/1e8a884b-b6a8-4377-a33e-6976472da153)
 
 - **View Raised Amount**: Donors and charity can view the total amount raised for each case.
-  ![View Raised Amount](img_link_view_raised_amount)  
+![View Raised amt](https://github.com/Bala1703/Blockchain-based-charity-donations/assets/138019223/69ea8e6b-b5b9-4f4c-bb9b-62dcd54705fe)
 
 - **Create Profile (Charity)**: A profile for charity organizations to review and approve cases.
-  ![Create Profile Charity](img_link_create_profile_charity)
+![charityprofile](https://github.com/Bala1703/Blockchain-based-charity-donations/assets/138019223/07c403fc-a05d-44f4-9663-fb2299b136d6)
 
- - **View Cases**: Users can browse through all submitted cases.
-  ![View Cases](img_link_view_cases)
+ - **View Cases**: Charity can browse through all submitted cases.
+![Viewcases](https://github.com/Bala1703/Blockchain-based-charity-donations/assets/138019223/f2ad4b33-fb9d-4ef9-a82f-d6314091326c)
 
  - **Approve Case**: Charity reviews the submitted documents and approves the case if it meets the criteria.
-  ![Approve Case](img_link_approve_case)  
+![Approvecase](https://github.com/Bala1703/Blockchain-based-charity-donations/assets/138019223/288bb06a-d4c8-48e4-b75f-46fbb0fe3328)
 
 - **Create Profile (Donor)**: A profile for donors to browse and donate to approved cases.
-  ![Create Profile Donor](img_link_create_profile_donor)
+![Donorprofile](https://github.com/Bala1703/Blockchain-based-charity-donations/assets/138019223/5eead558-5463-4dc0-97cd-14405cd1bd50)
 
 - **Donate to Case**: Donors can browse through approved cases and donate to the one they choose.
-  ![Donate to Case](img_link_donate_to_case)
+![donatetocase](https://github.com/Bala1703/Blockchain-based-charity-donations/assets/138019223/dfef036a-c05f-4820-a45f-6083709fe7e1)
 
 - **Connect to MetaMask**: Page to connect your MetaMask wallet to the platform.
-  ![Connect to MetaMask](img_link_connect_to_metamask)
+![Connecttometamask](https://github.com/Bala1703/Blockchain-based-charity-donations/assets/138019223/db517cb3-c1c8-40cb-b4e0-2fbfcf5f000f)
 
 - **MetaMask Integration**: Seamless integration with MetaMask for transaction management.
-  ![MetaMask Integration](img_link_metamask)
+![Metamask](https://github.com/Bala1703/Blockchain-based-charity-donations/assets/138019223/05577a53-35e8-4791-927a-9a2bca95c440)
 
 - **Block Explorer**: Track the transactions and status of cases on a blockchain explorer.
-  ![Block Explorer](img_link_block_explorer)
+![Block_explorer](https://github.com/Bala1703/Blockchain-based-charity-donations/assets/138019223/9be060e3-4833-4706-a892-6406e51f2f44)
 
 ## Tech Stack
 
