@@ -5,8 +5,8 @@ This project is a decentralized charity donation platform where the needy can su
 ## Features
 
 - **Home**: Landing page with information about the platform and navigation links.
-  ![Home](![Home](https://github.com/Bala1703/Blockchain-based-charity-donations/assets/138019223/75a4b970-2bd4-4586-9199-0de38ef98c36)
-)
+  ![Home](https://github.com/Bala1703/Blockchain-based-charity-donations/assets/138019223/75a4b970-2bd4-4586-9199-0de38ef98c36)
+
 
 - **Signup**: Page for new users to create an account.
   ![Signup](img_link_signup)
